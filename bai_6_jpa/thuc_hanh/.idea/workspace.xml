@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46bdfbe2-da91-495d-a160-b09b9d97617a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_ORM/bai_tap/xay_dung_ung_dung_nghe_nhac_don_gian/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_ORM/bai_tap/xay_dung_ung_dung_nghe_nhac_don_gian/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_ORM/bai_tap/xay_dung_ung_dung_nghe_nhac_don_gian/src/main/java/com/codegym/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_ORM/bai_tap/xay_dung_ung_dung_nghe_nhac_don_gian/src/main/java/com/codegym/config/ApplicationConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="25upmVtCWgiJvuGSfluEMUXYwz7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46bdfbe2-da91-495d-a160-b09b9d97617a" name="Default Changelist" comment="" />
+      <created>1646386984432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646386984432</updated>
+      <workItem from="1646386985888" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1646387023855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1646387023855" />
+    <state x="342" y="99" key="new project wizard" timestamp="1646387054830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="99" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1646387054830" />
+  </component>
+</project>

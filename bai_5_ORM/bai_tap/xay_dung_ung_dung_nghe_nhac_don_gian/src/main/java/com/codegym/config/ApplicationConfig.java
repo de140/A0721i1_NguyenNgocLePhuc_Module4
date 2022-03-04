@@ -36,7 +36,7 @@ import java.util.Properties;
 @Configuration
 @EnableWebMvc
 @EnableTransactionManagement
-@EnableJpaRepositories(basePackages = {"com.repository.impl"})
+@EnableJpaRepositories(basePackages = {"com.codegym.repository.impl"})
 @ComponentScan("com")
 public class ApplicationConfig extends WebMvcConfigurerAdapter implements WebMvcConfigurer, ApplicationContextAware {
 
@@ -108,7 +108,7 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements WebMvc
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/baitap?useSSL=false");
         dataSource.setUsername( "root" );
-        dataSource.setPassword( "codegym" );
+        dataSource.setPassword( "lephuc123" );
         return dataSource;
     }
 
